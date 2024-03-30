@@ -21,7 +21,7 @@ The content for each lab will be distributed via github classroom.
 So, to do the assignment of this course, you need:
 1. You'll need to log into https://escalab.org/datahub to run a jupyter notebook. 
 2. Tha asssignment from github classroom.  Find the link on the course 
-home page: https://www.escalab.org/classes/cs203-2023fa/
+home page: https://www.escalab.org/classes/cs203-2024sp/
 
 ## Connecting to CS203 jupyterhub 
 
@@ -61,7 +61,7 @@ and stop your server and then restart it.
 ## Cloning the Assignment Repo
 
 First, accept the assignement on Github Classroom.  It's available via the
-CS203 [home page](https://www.escalab.org/classes/cs203-2023fa/).
+CS203 [home page](https://www.escalab.org/classes/cs203-2024sp/).
 
 This will set you up with a copy of the starter repository.
 
