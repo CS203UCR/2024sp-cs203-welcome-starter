@@ -1,0 +1,6 @@
+Processor,Frequency (GHz),SpecRate,# Cores,# Chips ,Published
+Intel Xeon E7-8890 v4,2.2,318,96,4,2016
+Intel Xeon Platinum 8180,2.5,580,112,4,2017
+Intel Xeon Platinum 8280,2.7,653,112,4,2019
+Intel Xeon Platinum 8270,2.7,695,104,4,2022
+Intel Xeon Platinum 8480+,2,927,112,2,2023
