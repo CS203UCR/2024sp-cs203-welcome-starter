@@ -69,16 +69,16 @@ This will set you up with a copy of the starter repository.
 
 ```
 [htseng@datahub]$ git clone https://github.com/CS203UCR/2022sp-cs203-welcome-hungweitseng.git
-Cloning into '2022sp-cs203-welcome-hungweitseng'...
+Cloning into '2024sp-cs203-welcome-hungweitseng'...
 Username for 'https://github.com': hungweitseng
 Password for 'https://hungweitseng@github.com': 
 remote: Support for password authentication was removed on August 13, 2021.
 remote: Please see https://docs.github.com/en/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls for information on currently recommended modes of authentication.
-fatal: Authentication failed for 'https://github.com/CS203UCR/2022sp-cs203-welcome-hungweitseng.git/'
+fatal: Authentication failed for 'https://github.com/CS203UCR/2024sp-cs203-welcome-hungweitseng.git/'
 ```
 
 
-You'll need to open a terminal from jupyterhub.  From the file browser, lect "new->terminal" from the menu in the upper right.
+You'll need to open a terminal from jupyterhub.  From the JupyterHub Dashboard (click the logo on the top left corner), select "new->terminal" from the menu in the upper right.
 At the resulting Linux prompt, you can `git clone` the repo locally.
 
 
